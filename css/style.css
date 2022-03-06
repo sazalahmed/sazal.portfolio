@@ -10478,7 +10478,6 @@ div#featured-project-carousel {
           font-size: 14px; } }
       @media only screen and (max-width: 767px) {
         .rn-nav-list .nav-item .nav-link {
-          padding: 30px 6px;
           padding: 18px 6px;
           font-size: 13px; } }
       @media only screen and (max-width: 767px) {
@@ -10803,7 +10802,8 @@ div#featured-project-carousel {
     border-radius: 10px;
     padding: 3px;
     background: #212428;
-    box-shadow: inset 8px 8px 16px #00000075,  inset -8px -8px 16px #383e4575; }
+    box-shadow: inset 8px 8px 16px #00000075, 
+ inset -8px -8px 16px #383e4575; }
     .progress-charts .progress .progress-bar {
       overflow: visible;
       position: relative;
@@ -12052,7 +12052,6 @@ div#featured-project-carousel {
     min-height: 235px;
     background-color: #191b1e;
     border-radius: 6px;
-    padding: 0;
     transition: var(--transition);
     border: 2px solid #191b1e;
     padding: 10px 15px;
@@ -12538,7 +12537,6 @@ div#featured-project-carousel {
     cursor: pointer;
     margin-top: 0;
     margin-bottom: 40px;
-    padding: 20px 30px;
     flex-basis: 20%;
     padding: 35px 30px;
     min-height: 130px; }
@@ -14603,3 +14601,10 @@ body.white-version {
   color: var(--color-white) !important; }
 
 /*# sourceMappingURL=../maps/style.css.map */
+
+
+
+
+
+
+

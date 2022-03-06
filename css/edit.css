@@ -1,0 +1,53 @@
+.new_portrfolio .nav-item.nav_item_2 {
+	flex-basis: 50% !important;
+}
+
+.personal-experience-inner .experience-list .resume-single-list .inner .heading .title h4 {
+	font-size: 20px;
+}
+
+.see_project_btn {
+	padding: 30px 50px;
+	background: var(--gradient-box-w);
+	box-shadow: var(--shadow-white-3);
+	color: var(--color-heading-wv);
+	text-transform: capitalize;
+	transition: all linear .3s;
+	-webkit-transition: all linear .3s ease;
+	-moz-transition: all linear .3s ease;
+	-ms-transition: all linear .3s ease;
+	-o-transition: all linear .3s ease;
+	border-radius: 10px;
+}
+
+.testimonial .inner .card-description .title-area .title-info .title {
+	font-size: 22px;
+}
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1399.99px) {}
+
+
+@media (min-width: 992px) and (max-width: 1199.99px) {}
+
+
+@media (min-width: 768px) and (max-width: 991.99px) {}
+
+
+@media (min-width: 576px) and (max-width: 767.99px) {}
+
+
+@media (max-width: 575.99px) {
+    
+    .new_portrfolio .nav-item.nav_item_2 {
+        flex-basis: 100% !important;
+    } 
+ 
+  
+}

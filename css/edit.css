@@ -36,6 +36,22 @@
 	color: var(--color-white) !important;
 }
 
+.footer_gap {
+	padding: 30px;
+}
+
+.portfolio_page {
+	margin-top: 100px;
+}
+
+.portfolio_page::after{
+	position: inherit;
+}
+
+
+
+
+
 
 
 

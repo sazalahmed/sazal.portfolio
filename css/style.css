@@ -13568,8 +13568,12 @@ figcaption {
 
 @media only screen and (max-width: 767px) {
   .slide .content .inner .title {
-    font-size: 50px;
+    font-size: 40px;
     line-height: 60px;
+  }
+
+  .cd-words-wrapper b {
+    font-size: 25px;
   }
 }
 
@@ -13615,6 +13619,14 @@ figcaption {
 @media only screen and (max-width: 575px) {
   .slide .content .inner p.discs {
     width: 80%;
+  }
+
+  .cd-words-wrapper b {
+    font-size: 22px;
+  }
+
+  .slide .content .inner .title {
+    font-size: 28px;
   }
 }
 
